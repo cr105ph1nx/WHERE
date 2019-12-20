@@ -1,7 +1,7 @@
 # WHERE!
 A side mobile application to the project developed by my team during an IoT and Lora/Lorawan Technologies Hackathon.
 
-The project consisted of a vehicule tracking mechanism using Lora and Lorawan technologies, and that would allow the user to know the destination, estimated time of arrival of the any means of transportation the user is tracking.
+The project consisted of a vehicule tracking mechanism using Lora and Lorawan technologies, and that would allow the user to know the destination and estimated time of arrival of the means of transportation which the user is tracking.
 
 <a href="https://ibb.co/wJdH514"><img src="https://i.ibb.co/PTrpq8g/79488339-431034557773571-5070808672225984512-n.png" alt="79488339-431034557773571-5070808672225984512-n" border="0"></a>
 
